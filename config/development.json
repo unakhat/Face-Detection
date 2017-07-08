@@ -1,0 +1,16 @@
+{
+  "SERVER_HOST": "localhost",
+  "SERVER_PORT": 80,
+  "DB_USER" : "root",
+  "DB_PASSWORD" : "password",
+  "DB_PORT" : 3306,
+  "DB_DILECT" : "mysql",
+  "DB_DATABASE" : "erpsystem",
+  "HAVEN_ON_DEMAND_API_KEY" : "",
+  "UPLOADS_PATH" : "./uploads/",
+  "CLOUDINARY_CLOUD_NAME" : "geekapp",
+  "CLOUDINARY_API_KEY": "",
+  "CLOUDINARY_API_SECRET": "",
+  "KLAPI_USER_NAME": "" ,
+  "KLAPI_API_KEY": ""
+}
